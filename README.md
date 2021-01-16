@@ -3,6 +3,6 @@ Code and data Prusokas A, Hawkins M, Nieduszynski CA,  and Retkute R. "The effec
 https://www.biorxiv.org/content/10.1101/241752v3
 
 
-Figure 1. CFUs imges and reconstructed colonies.
+Figure 1. Imge of CFUs and reconstructed colonies.
 
 ![](colonies.jpg)
